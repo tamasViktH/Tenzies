@@ -6,7 +6,7 @@ body {
     font-family: Karla, sans-serif;
     margin: 0;
     background-color: #0B2434;
-    padding: 20px;
+    padding: 30px;
     height: 100vh;
     display: flex;
     flex-direction: column;
@@ -29,6 +29,8 @@ main {
     flex-direction: column;
     justify-content: space-evenly;
     align-items: center;
+    margin: auto;
+    padding: 20px;
 }
 
 .title {
