@@ -49,9 +49,3 @@ This project was built using **React**, and it helped me deepen my understanding
 - 💅 Clean, modern UI
 
 ---
-
-## 🧠 Built As Part Of
-
-The [Scrimba Frontend Developer Career Path](https://scrimba.com/learn/frontend), focused on building real-world, interactive web apps with React.
-
----
